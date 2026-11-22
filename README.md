@@ -1,8 +1,8 @@
-# Sysguineki Android
+ Sysguineki Android
 
 Projeto Android inicial que pode ser compilado no GitHub Actions.
 
-## Como usar
+ Como usar
 1. Envie todos os ficheiros e pastas deste projeto para a raiz do repositório GitHub.
 2. Abra o separador **Actions**.
 3. Escolha **Build Sysguineki APK** e execute **Run workflow**, ou aguarde a compilação automática após o envio.
